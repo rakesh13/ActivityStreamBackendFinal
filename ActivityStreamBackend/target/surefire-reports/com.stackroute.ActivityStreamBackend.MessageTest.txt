@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.stackroute.ActivityStreamBackend.MessageTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 2, Time elapsed: 9.406 sec - in com.stackroute.ActivityStreamBackend.MessageTest

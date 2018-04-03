@@ -1,0 +1,5 @@
+com\stackroute\ActivityStreamBackend\CircleTest.class
+com\stackroute\ActivityStreamBackend\UserCircleTest.class
+com\stackroute\ActivityStreamBackend\MessageTest.class
+com\stackroute\ActivityStreamBackend\UserTest.class
+com\stackroute\ActivityStreamBackend\AppTest.class
